@@ -25,7 +25,7 @@
   "groupButtons": {
     "groupButton1": {
       "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
-      "buttonType": "MENU",
+      "buttonType": "SIMPLE",
       "iconName": "home",
       "id": "groupButton1",
       "index": 0,
