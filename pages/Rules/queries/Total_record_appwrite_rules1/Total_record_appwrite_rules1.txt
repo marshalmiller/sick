@@ -1,0 +1,1 @@
+SELECT COUNT(*) from appwrite.rules where description ilike '%{{Table1.searchText}}%';

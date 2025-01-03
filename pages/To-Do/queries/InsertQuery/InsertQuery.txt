@@ -1,0 +1,6 @@
+INSERT INTO appwrite."tasks" (
+	"description",
+	"Task Name")
+VALUES (
+	'{{insert_form.formData.description}}',
+	'{{insert_form.formData.Task Name}}');

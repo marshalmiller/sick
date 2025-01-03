@@ -1,0 +1,2 @@
+DELETE FROM appwrite."groceries"
+  WHERE "location" = {{data_table.triggeredRow.location}};

@@ -1,0 +1,52 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 40,
+  "boxShadow": "none",
+  "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "buttonVariant": "PRIMARY",
+  "disabledWhenInvalid": false,
+  "dynamicBindingPathList": [
+    {
+      "key": "buttonColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "isDefaultClickDisabled": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "skqgo9irdi",
+  "leftColumn": 13,
+  "minWidth": 120,
+  "mobileBottomRow": 34,
+  "mobileLeftColumn": 21,
+  "mobileRightColumn": 37,
+  "mobileTopRow": 30,
+  "needsErrorInfo": false,
+  "onClick": "{{navigateTo('To-Do', {}, 'SAME_WINDOW');}}",
+  "originalBottomRow": 40,
+  "originalTopRow": 32,
+  "parentColumnSpace": 13.046875,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "placement": "CENTER",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": false,
+  "responsiveBehavior": "hug",
+  "rightColumn": 51,
+  "text": "To-Do",
+  "topRow": 32,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "331q832yd9",
+  "widgetName": "Button3"
+}

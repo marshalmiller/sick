@@ -1,0 +1,3 @@
+UPDATE appwrite."tasks" SET
+		"Task Name" = '{{update_form.fieldState.Task Name.isVisible ? update_form.formData.Task Name : update_form.sourceData.Task Name}}'
+WHERE "description" = {{data_table.selectedRow.description}};

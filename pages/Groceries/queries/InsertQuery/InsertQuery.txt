@@ -1,0 +1,6 @@
+INSERT INTO appwrite."groceries" (
+	"location",
+	"item")
+VALUES (
+	'{{insert_form.formData.location}}',
+	'{{insert_form.formData.item}}');

@@ -1,0 +1,3 @@
+UPDATE appwrite."groceries" SET
+		"item" = '{{update_form.fieldState.item.isVisible ? update_form.formData.item : update_form.sourceData.item}}'
+WHERE "location" = {{data_table.selectedRow.location}};
