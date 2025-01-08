@@ -1,0 +1,52 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 65,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontSize": "1rem",
+  "fontStyle": "BOLD",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "i03wl3shxa",
+  "leftColumn": 1,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 14,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 16,
+  "mobileTopRow": 10,
+  "needsErrorInfo": false,
+  "originalBottomRow": 14,
+  "originalTopRow": 10,
+  "overflow": "NONE",
+  "parentColumnSpace": 6.84375,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 63,
+  "shouldTruncate": false,
+  "text": "Marshal's Surgery will take place at 7:00AM at St. Luke's Bethlehem Hospital. Address is \n\n801 Ostrum Street\nBethlehem, PA 18015\n\nMarshal will wake up at 5:30AM. He must wake up, change his sheets to the freshly washed ones in the dryer. After that, he should take another sanitizing shower. He cannot eat or drink before the surgery. \n\nHe may take his medication, except for the digestive one.\n\nHe should enter through the B Entrance. Once you enter the hospital, make a left at the volenteer's desk and then a quick right. Go to the waiting room.\n\nAt home, he must remain in a sterile environment. Keep bathroom clean. Everyone must wash hands regularly.\n\nMake sure that water and frosted mini wheats are accessible in case he needs them.\n\nAny Prescriptions will be sent to the CVS on Old Philadelphia Rd, by the Chinese resturant. Make sure to use Marshal's Captial BlueCross Card to make medical purchases.",
+  "textAlign": "CENTER",
+  "textColor": "#231F20",
+  "topRow": 10,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "j9vxb8gjv2",
+  "widgetName": "Text1"
+}

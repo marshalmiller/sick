@@ -1,12 +1,12 @@
 {
-  "gitSyncId": "67772ab3eb2e1b2b82ffd4c7_6adb541c-970b-42a4-ae0d-3a3fe90e40b4",
+  "gitSyncId": "677decf5447bb94a97743a45_baebeca9-4466-42d4-b053-3b551a427ec4",
   "unpublishedPage": {
     "isHidden": false,
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 580,
+          "bottomRow": 650,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
@@ -27,7 +27,7 @@
         }
       }
     ],
-    "name": "Home",
-    "slug": "home"
+    "name": "Medical",
+    "slug": "medical"
   }
 }

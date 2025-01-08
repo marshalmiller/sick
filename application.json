@@ -26,6 +26,10 @@
   "evaluationVersion": 2,
   "pages": [
     {
+      "id": "Day of Surgery",
+      "isDefault": false
+    },
+    {
       "id": "Home",
       "isDefault": true
     },
@@ -39,6 +43,10 @@
     },
     {
       "id": "To-Do",
+      "isDefault": false
+    },
+    {
+      "id": "Medical",
       "isDefault": false
     }
   ],
