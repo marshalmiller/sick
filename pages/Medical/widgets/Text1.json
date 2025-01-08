@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 65,
+  "bottomRow": 69,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
@@ -30,7 +30,7 @@
   "mobileRightColumn": 16,
   "mobileTopRow": 10,
   "needsErrorInfo": false,
-  "originalBottomRow": 14,
+  "originalBottomRow": 65,
   "originalTopRow": 10,
   "overflow": "NONE",
   "parentColumnSpace": 6.84375,
@@ -40,7 +40,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 63,
   "shouldTruncate": false,
-  "text": "Marshal's Surgery will take place at 7:00AM at St. Luke's Bethlehem Hospital. Address is \n\n801 Ostrum Street\nBethlehem, PA 18015\n\nMarshal will wake up at 5:30AM. He must wake up, change his sheets to the freshly washed ones in the dryer. After that, he should take another sanitizing shower. He cannot eat or drink before the surgery. \n\nHe may take his medication, except for the digestive one.\n\nHe should enter through the B Entrance. Once you enter the hospital, make a left at the volenteer's desk and then a quick right. Go to the waiting room.\n\nAt home, he must remain in a sterile environment. Keep bathroom clean. Everyone must wash hands regularly.\n\nMake sure that water and frosted mini wheats are accessible in case he needs them.\n\nAny Prescriptions will be sent to the CVS on Old Philadelphia Rd, by the Chinese resturant. Make sure to use Marshal's Captial BlueCross Card to make medical purchases.",
+  "text": "Marshal will need access to bottled water on-demand.\n\nMarshal needs to take his pills every day. There are packets in the bathroom that are dated and have time stamps. He must take the 8:00AM pack every day. He MUST take these before 2:00PM every day. It is worth waking Marshal up if he has not taken the pills by this time. The 6:00PM pills are optional. Please discard if unused.\n\nMarshal will need his humidifer in this room refilled daily. There is a Brita pitcher in his room that can be filled up to pour into the humidifier. Water must be purified before being put in the humidifier.\n\nMarshal may not have much of an appitite in the first few days. Frosted Mini Wheats are a good snack until he feels like eating whole meals.\n\nHe will have limited mobility, so he may need help retrieving things.\n\nPlease make sure to keep the sidewalks clear of ice and snow.\n\nTrash goes out Thursday nights.\n\nAllow Marshal to sleep when possible.\n\nAs usual, Signal is the best way to reach Marshal.",
   "textAlign": "CENTER",
   "textColor": "#231F20",
   "topRow": 10,
